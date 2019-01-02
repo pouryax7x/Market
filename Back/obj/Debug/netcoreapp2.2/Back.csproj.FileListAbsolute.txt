@@ -1,0 +1,14 @@
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.RazorAssemblyInfo.cache
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.RazorAssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Trip/Back/bin/Debug/netcoreapp2.2/Back.deps.json
+/Users/Pourya/Desktop/Projects/Trip/Back/bin/Debug/netcoreapp2.2/Back.runtimeconfig.json
+/Users/Pourya/Desktop/Projects/Trip/Back/bin/Debug/netcoreapp2.2/Back.runtimeconfig.dev.json
+/Users/Pourya/Desktop/Projects/Trip/Back/bin/Debug/netcoreapp2.2/Back.dll
+/Users/Pourya/Desktop/Projects/Trip/Back/bin/Debug/netcoreapp2.2/Back.pdb
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.RazorTargetAssemblyInfo.cache
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.dll
+/Users/Pourya/Desktop/Projects/Trip/Back/obj/Debug/netcoreapp2.2/Back.pdb
