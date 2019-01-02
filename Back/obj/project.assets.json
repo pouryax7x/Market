@@ -12171,11 +12171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Pourya/Desktop/Projects/Trip/Back/Back.csproj",
+      "projectUniqueName": "/Users/Pourya/Desktop/Projects/Market/Back/Back.csproj",
       "projectName": "Back",
-      "projectPath": "/Users/Pourya/Desktop/Projects/Trip/Back/Back.csproj",
+      "projectPath": "/Users/Pourya/Desktop/Projects/Market/Back/Back.csproj",
       "packagesPath": "/Users/Pourya/.nuget/packages/",
-      "outputPath": "/Users/Pourya/Desktop/Projects/Trip/Back/obj/",
+      "outputPath": "/Users/Pourya/Desktop/Projects/Market/Back/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
