@@ -1,0 +1,14 @@
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.DA.deps.json
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.DA.dll
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.DA.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.Model.dll
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.Model.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.csproj.CopyComplete
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.dll
+/Users/Pourya/Desktop/Projects/Market/Market.DA/obj/Debug/netcoreapp2.2/Market.DA.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.DA.runtimeconfig.json
+/Users/Pourya/Desktop/Projects/Market/Market.DA/bin/Debug/netcoreapp2.2/Market.DA.runtimeconfig.dev.json

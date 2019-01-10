@@ -1,0 +1,9 @@
+/Users/Pourya/Desktop/Projects/Market/Market.Model/bin/Debug/netstandard2.0/Market.Model.deps.json
+/Users/Pourya/Desktop/Projects/Market/Market.Model/bin/Debug/netstandard2.0/Market.Model.dll
+/Users/Pourya/Desktop/Projects/Market/Market.Model/bin/Debug/netstandard2.0/Market.Model.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.dll
+/Users/Pourya/Desktop/Projects/Market/Market.Model/obj/Debug/netstandard2.0/Market.Model.pdb

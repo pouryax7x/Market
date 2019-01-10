@@ -1,0 +1,14 @@
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.BSS.deps.json
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.BSS.dll
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.BSS.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.DA.dll
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.Model.dll
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.DA.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/bin/Debug/netstandard2.0/Market.Model.pdb
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.csproj.CopyComplete
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.dll
+/Users/Pourya/Desktop/Projects/Market/Market.BSS/obj/Debug/netstandard2.0/Market.BSS.pdb
